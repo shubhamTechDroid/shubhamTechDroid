@@ -2,8 +2,8 @@
 <p align="center"><img src="images/Hi i am shubham bawankar.svg"/></p>
 <p align="left">
   <p> -🔭 I’m CSE graduate from Chandigard University</p>
-  <p> - 🌱 I’m currently learning Webdevelopement and DSA</p>
-  <p> - 👯 I’m looking to work on AI/ML</p>
+  <p> - 🌱 I’m Intrested in Web Technologies & Real World Implementations</p>
+  <p> - 👯 I’m looking to work on various new Tech Stack like Next.js & AI integration</p>
   <p> - 😄 Pronouns: Web Developer</p>
 </p>
 <br/>
