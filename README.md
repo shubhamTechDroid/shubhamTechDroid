@@ -1,7 +1,7 @@
 <img src="./headimg.svg" alt="intro" />
 <p align="center"><img src="images/Hi i am shubham bawankar.svg"/></p>
 <p align="left">
-  <p> -🔭 I’m currently a CSE student at Chandigard University</p>
+  <p> -🔭 I’m CSE graduate from Chandigard University</p>
   <p> - 🌱 I’m currently learning Webdevelopement and DSA</p>
   <p> - 👯 I’m looking to work on AI/ML</p>
   <p> - 😄 Pronouns: Web Developer</p>
